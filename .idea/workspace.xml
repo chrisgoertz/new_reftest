@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d45972d1-8c02-41d5-9818-50ba615853ff" name="Changes" comment="edit java version">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ncdf/MessagePublisher.java" afterDir="false" />
+    <list default="true" id="d45972d1-8c02-41d5-9818-50ba615853ff" name="Changes" comment="edit build script">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven-publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven-publish.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697053627219</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added MessagePublisher">
+      <created>1697054506897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697054506897</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit build script">
+      <created>1697054814063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697054814063</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial release" />
     <MESSAGE value="edit java version" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit java version" />
+    <MESSAGE value="added MessagePublisher" />
+    <MESSAGE value="edit build script" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit build script" />
   </component>
 </project>
